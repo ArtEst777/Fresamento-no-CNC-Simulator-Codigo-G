@@ -59,7 +59,7 @@ Este código G realiza o torneamento completo de uma peça com as seguintes oper
 ## 📂 Estrutura do Projeto
 
 Fresamento-no-CNC-Simulator-Codigo-G/
-├── cnc/ # Código G
+├── cnc/ # Código G  
 │   └── (arquivo .nc)
 ├── imagens/ # Imagens da peça e simulação
 │   ├── peca-pronta.jpg
