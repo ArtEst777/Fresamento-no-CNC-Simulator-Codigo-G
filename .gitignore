@@ -1,0 +1,12 @@
+# Arquivos temporários do Windows
+Thumbs.db
+*.tmp
+
+# Arquivos de simulação (se gerar logs)
+*.log
+*.bak
+
+# Pastas do sistema
+.idea/
+.vscode/
+__pycache__/
